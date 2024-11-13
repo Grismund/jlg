@@ -1,5 +1,11 @@
 # Processor
 
+## Running the Program
+
+`ruby lib/data_merger.rb`
+
+The `output.csv` file will be overwritten.
+
 ## Success
 
 ![img.png](img.png)
